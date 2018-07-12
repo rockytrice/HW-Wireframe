@@ -10,25 +10,24 @@ body {
 header {
     background: #ebebeb;
     text-align: center; 
-    height: 92px;
-
+    height: 75px;
+    padding-top: 50px;
     
 }
 #navbar {
     background: #ebebeb;
     text-align: center;
-    height: 92px;
+    height: 75px;
+    padding-top: 50px;;
     
     
 }
  .section {
     background: #ebebeb;
-    width: 495px;
+    width: 471px;
     text-align: center;
     padding: 10px;
     margin-right: 6px;
-    border-style: solid;
-    border-color: green;
     padding-top: 41px;
 
     
@@ -36,9 +35,11 @@ header {
 article {
     color: #ebebeb;
     background: #777;
-    width: 481px;
+    width: 456px;
     text-align: center;
     padding: 8px;
+    padding-top: 26px;
+    margin-top: 7px;
 
     
 }
@@ -46,29 +47,27 @@ article {
 h1, p {
     color: #777;
     background: #ebebeb;
-    width: 497px;
+    width: 447px;
     height: 56px;
     margin-left: 4px;
+    padding-top: 26px;
 }
-p {
-    /* margin-bottom: 20px; */
-}
+
 aside {
     background: #ebebeb;
     width: 446px;
     text-align: center;
     float:right;
-    height: 300px;
+    height: 210px;
     margin-bottom: 38px;
-    margin-top: -275px;
-    border-style:solid;
-    border-color: red;
+    margin-top: -385px;
+    padding-top: 149px;
 
 }    
-}
-footer {
+
+.footer {
     background: #ebebeb;
     padding: 30px;
-    clear: both;
     
+    text-align: center;
 }
