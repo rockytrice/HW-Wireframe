@@ -21,18 +21,24 @@ header {
     
     
 }
- section {
+ .section {
     background: #ebebeb;
     width: 495px;
     text-align: center;
+    padding: 10px;
+    margin-right: 6px;
+    border-style: solid;
+    border-color: green;
+    padding-top: 41px;
 
     
 }
 article {
     color: #ebebeb;
     background: #777;
-    width: 495px;
+    width: 481px;
     text-align: center;
+    padding: 8px;
 
     
 }
@@ -40,13 +46,25 @@ article {
 h1, p {
     color: #777;
     background: #ebebeb;
-    width: 495px;
+    width: 497px;
+    height: 56px;
+    margin-left: 4px;
+}
+p {
+    /* margin-bottom: 20px; */
 }
 aside {
     background: #ebebeb;
-    width: 495px;
+    width: 446px;
     text-align: center;
-    
+    float:right;
+    height: 300px;
+    margin-bottom: 38px;
+    margin-top: -275px;
+    border-style:solid;
+    border-color: red;
+
+}    
 }
 footer {
     background: #ebebeb;
